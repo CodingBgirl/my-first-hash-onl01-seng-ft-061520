@@ -14,7 +14,7 @@ def shipping_manifest
     "porcelain vases" => 2 ,
     "oil paintings" => 3
   }
-
+  #numbers or intergars dont need "" in them as a value
 end
 
 def retrieval
